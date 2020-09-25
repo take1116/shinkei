@@ -1,7 +1,7 @@
 
 #panel {
-    width: 700px;
-    height: 600px;
+    width: 500px;
+    height: 640px;
     overflow: visible;
 }
 
@@ -21,7 +21,7 @@
 }
 /* 裏の状態 */
 .back {
-    background-image: url('');
+    background-image: url("OIP.jpg");
     background-size: 120px 160px;
 }
 /* 終了時 */
@@ -33,4 +33,5 @@
 #result {
     font-size: 1.2em;
     font-weight: bold;
+    text-align: justify;
 }
